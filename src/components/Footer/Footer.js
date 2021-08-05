@@ -33,6 +33,7 @@ const Footer = () => {
         <CompanyContainer>
           <Slogan>Working At Realback</Slogan>
         </CompanyContainer>
+          <SocialContainer>
         <SocialIcons href="https://github.com/rohitparashar123">
         <AiFillGithub size="3rem" />
       </SocialIcons>
@@ -42,6 +43,7 @@ const Footer = () => {
       <SocialIcons href="https://instagram.com/rohitparashar___">
         <AiFillInstagram size="3rem" />
       </SocialIcons>
+      </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>
   );
